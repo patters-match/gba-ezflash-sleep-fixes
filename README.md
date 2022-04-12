@@ -7,7 +7,7 @@ Although sleep patches that can be applied to any game exist (including the ones
 Many first-party Nintendo GBA games do contain their own native sleep mode functions, but these don't work properly when using an EZ-Flash flashcart. They will wake the GBA instantly when sleep is engaged, apparently because EZ-Flash devices generate spurious gamepak interrupts.
 
 ### Fixes for native sleep modes
-Back in the day, ROM patches were figured out to fix many of these games to ignore these additional interrupts. This was difficult information to track down, 14 years later: 
+Back in the day, ROM patches were figured out to fix many of these games to ignore these additional interrupts. This was difficult information to track down, some 14 years later: 
 
 https://web.archive.org/web/20180904111600/https://ezflash.sosuke.com/viewtopic.php?f=16&t=12662 
 https://web.archive.org/web/20180904023246/https://ezflash.sosuke.com/wiki/index.php?title=GBA_sleep_mode 
