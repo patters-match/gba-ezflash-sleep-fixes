@@ -1,4 +1,4 @@
-##Fixes for Gameboy Advance games with built-in sleep modes when running on EZ Flash flashcarts
+#Fixes for Gameboy Advance games with built-in sleep modes when running on EZ Flash flashcarts
 
 ###Sleep mode issues
 
