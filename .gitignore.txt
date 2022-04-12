@@ -1,16 +1,3 @@
-# Game Roms #
-######################
-bios.bin
-*.rom
-*.gb
-*.gbc
-*.ngp
-*.pce
-*.nes
-*.sms
-*.gg
-*.sg
-
 # Logs and databases #
 ######################
 *.log
