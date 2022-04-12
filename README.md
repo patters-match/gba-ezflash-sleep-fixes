@@ -19,5 +19,5 @@ These patches were originally published in a rather non-standard way, depending 
 - Additional patches where some variants or regions of the game were missing
 - Added the crc32 checksum of the target ROM file to each patch filename, for validation
 
-### Additional Reading
-- [idle loop patches at GBATEMP forum](https://gbatemp.net/threads/game-boy-advance-idle-loop-patches-i-e-speedhacks.396278/) to reduce battery consumption for some games
+### Additional reading
+- [Idle loop patches at GBATEMP forum](https://gbatemp.net/threads/game-boy-advance-idle-loop-patches-i-e-speedhacks.396278/) to reduce battery consumption for some games
