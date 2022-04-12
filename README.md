@@ -4,7 +4,7 @@
 
 Although the newer 2.0x firmwares for the EZ-FLASH IV contain a sleep patcher (GSS) which can target all games, this more often than not brings its own compatibility issues - with many games failing to work at all, or developing strange faults like failing to work reliably during serial comms in multiplayer mode.
 
-However, many first party Nintendo GBA games contain their own sleep mode functions, but these don't work properly when using an EZ-FLASH flashcart. They will wake the GBA instantly when engaged, apparently because the EZ-FLASH generates spurious gamepak interrupts.
+However, many first-party Nintendo GBA games contain their own sleep mode functions, but these don't work properly when using an EZ-FLASH flashcart. They will wake the GBA instantly when engaged, apparently because the EZ-FLASH generates spurious gamepak interrupts.
 
 ### Fixes for native sleep modes
 Back in the day, ROM patches were figured out to fix many of these games to ignore these interrupts. This was difficult information to track down in the present day: 
