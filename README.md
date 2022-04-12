@@ -15,7 +15,7 @@ https://web.archive.org/web/20180904023246/https://ezflash.sosuke.com/wiki/index
 These patches were originally published in a rather non-standard way, depending on a Windows binary tool called hexalter.
 
 ### My improvements
-- Patches converted to IPS patches, cross-platform
+- Patches converted to IPS format, cross-platform
 - Additional patches where some revision or region variant of the game was missing
 - Added the crc32 checksum of the target ROM file to each patch filename, for validation
 
