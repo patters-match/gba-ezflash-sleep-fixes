@@ -5,7 +5,7 @@ Like the [GBATEMP forum thread](https://gbatemp.net/threads/game-boy-advance-idl
 
 Although the newer 2.0x firmwares for the EZ-FLASH IV contain a sleep patcher (GSS), this more often than not brings its own compatibility issues - with many games failing to work at all, or developing strange faults like failing to work reliably during serial comms in multiplayer mode.
 
-However, many first party Nintendo GBA games contain their own sleep mode functions, but these don't work properly when using an EZ-FLASH IV. They will wake the GBA instantly when engaged, apparently because the EZ-FLASH generates spurious gamepak interupts. Back in the day, ROM patches were figured out to fix many of them. This was difficult information to track down in the present day.
+However, many first party Nintendo GBA games contain their own sleep mode functions, but these don't work properly when using an EZ-FLASH flashcart. They will wake the GBA instantly when engaged, apparently because the EZ-FLASH generates spurious gamepak interupts. Back in the day, ROM patches were figured out to fix many of them. This was difficult information to track down in the present day.
 https://web.archive.org/web/20180904111600/https://ezflash.sosuke.com/viewtopic.php?f=16&t=12662
 https://web.archive.org/web/2018090...osuke.com/wiki/index.php?title=GBA_sleep_mode
 
