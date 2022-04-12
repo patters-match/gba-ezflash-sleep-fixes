@@ -16,7 +16,7 @@ These patches were originally published in a rather non-standard way, depending 
 
 ### My improvements
 - Patches converted to IPS patches, cross-platform
-- Additional patches where some variants or regions of the game were missing
+- Additional patches where some revision or region variant of the game was missing
 - Added the crc32 checksum of the target ROM file to each patch filename, for validation
 
 ### Additional reading
