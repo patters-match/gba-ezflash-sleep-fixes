@@ -2,7 +2,7 @@
 
 ### Sleep mode issues
 
-Although there exist sleep patches that can be applied to any game (including the ones built-in to the EZ-Flash IV fw2.x and EZ-Flash Omega), these often bring compatibility issues - with many games failing to work at all, or developing strange faults like failing to work reliably during serial comms in multiplayer mode.
+Although sleep patches that can be applied to any game exist (including the ones built-in to the EZ-Flash IV fw2.x and EZ-Flash Omega), these often bring compatibility issues. Many games will fail to work at all, or may fail serial communications during multiplayer mode.
 
 Many first-party Nintendo GBA games do contain their own native sleep mode functions, but these don't work properly when using an EZ-Flash flashcart. They will wake the GBA instantly when sleep is engaged, apparently because EZ-Flash devices generate spurious gamepak interrupts.
 
