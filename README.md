@@ -12,7 +12,7 @@ Back in the day, ROM patches were figured out to fix many of these games for EZ-
 https://web.archive.org/web/20180904111600/https://ezflash.sosuke.com/viewtopic.php?f=16&t=12662 
 https://web.archive.org/web/20180904023246/https://ezflash.sosuke.com/wiki/index.php?title=GBA_sleep_mode 
 
-These patches were originally published in a rather non-standard way, depending on a Windows binary tool called hexalter.
+These patches were originally published in a rather non-standard way, dependent on a Windows binary tool called hexalter.
 
 ### My improvements
 - Patches converted to IPS format, to allow cross-platform tools
