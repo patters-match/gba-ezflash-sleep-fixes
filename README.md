@@ -21,3 +21,4 @@ These patches were originally published in a rather non-standard way, dependent 
 
 ### Additional reading
 - [Idle loop patches at GBATEMP forum](https://gbatemp.net/threads/game-boy-advance-idle-loop-patches-i-e-speedhacks.396278/) to reduce battery consumption for some games
+- [Some more patches, inc. for Classic NES series](https://gbatemp.net/threads/classic-nes-sleepmode-working-on-ez-flash-iv.433762/)
