@@ -18,6 +18,7 @@ These patches were originally published in a rather non-standard way, dependent 
 ### My improvements
 - Patches converted to IPS format, to allow cross-platform tools
 - Additional patches where some revision or region variant of the game was missing
+- Created new patches for almost all Famicom Mini series titles, except Volumes 04, 05, 09, & 10 which enable sleep from ARM code running in VRAM rather than directly executing Thumb instructions from ROM.
 - Added the crc32 checksum of the target ROM file to each patch filename, for validation
 
 ### Additional reading
