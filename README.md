@@ -22,4 +22,4 @@ These patches were originally published in a rather non-standard way, dependent 
 
 ### Additional reading
 - [Idle loop patches at GBATEMP forum](https://gbatemp.net/threads/game-boy-advance-idle-loop-patches-i-e-speedhacks.396278/) to reduce battery consumption for some games
-- [Classic NES Series / Famicom Mini patches at GBATEMP forum](https://gbatemp.net/threads/how-can-these-roms-be-made-to-work-with-the-ezflash-iv.378837/) to get these titles working on flashcarts
+- [Classic NES Series / Famicom Mini patches at GBATEMP forum](https://gbatemp.net/threads/how-can-these-roms-be-made-to-work-with-the-ezflash-iv.378837/) to get these titles saving correctly on flashcarts
